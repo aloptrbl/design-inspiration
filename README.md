@@ -73,7 +73,7 @@ A collection of websites and assets to spark creativity.
 ### CSS Codes
 - [Freefrontend](https://freefrontend.com)
 - [Animista - CSS Animation](http://animista.net)
-- https://cssfx.dev/
+- [Cssfx](https://cssfx.dev)
 
 ### Animations
 
