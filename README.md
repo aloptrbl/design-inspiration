@@ -1,4 +1,7 @@
-# Design Inspiration & Resources
+<p align="center">
+  Design Inspiration & Resources
+</p>
+
 
 A collection of websites and assets to spark creativity.
 
